@@ -1,0 +1,10 @@
+{
+  "name": "Kiosk POS Suisse",
+  "short_name": "Kiosk POS",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f4f1",
+  "theme_color": "#12573f",
+  "lang": "fr"
+}
